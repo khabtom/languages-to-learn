@@ -4,3 +4,5 @@ HTML
 NodeJs
 express
 CSS
+MERN
+Angular
