@@ -1,3 +1,6 @@
 Javascript
 react
+HTML
+NodeJs
+express
 CSS
